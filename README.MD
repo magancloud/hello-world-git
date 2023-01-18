@@ -93,3 +93,17 @@ Esto es un texto referente a una cita que vamos a escribir debajo
 Esto es otro texto diferente de otra cita
 > Esto es otra cita.
 
+Saltos de línea o líneas divisoras
+===
+
+podemos usar --- o *** o ___
+---
+esto es otro texto
+***
+y otro
+___
+
+Aunque son todos los mimos...
+
+
+
