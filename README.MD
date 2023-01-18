@@ -57,3 +57,31 @@ Imagenes
 ====================
 ![logo GitHub](https://1000logos.net/wp-content/uploads/2018/08/GitHub-cat-logo.jpg)
 
+
+# Code Snippets
+ ```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+[codigo obtenido de (pincha este enlace)](https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+Tablas
+
+| Nombre | Apellido | 2Apellido |
+| ------ | -------- | --------- |
+| Maxi   | Villuela | ejemplo   |
+| Maxi   | Villuela | ejemplo   |
+| Maxi   | Villuela | ejemplo   |
+| Maxi   | Villuela | ejemplo   |
+
+
