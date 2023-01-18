@@ -85,3 +85,11 @@ Tablas
 | Maxi   | Villuela | ejemplo   |
 
 
+# Citas
+
+Esto es un texto referente a una cita que vamos a escribir debajo
+> Esto es una cita. (poner dos enter para que aplique cita)
+
+Esto es otro texto diferente de otra cita
+> Esto es otra cita.
+
