@@ -12,7 +12,7 @@ Underlines(como en H1) así se generan:
 Underline 1
 -----------------------------------------
 
-UNderlines2
+Underlines2
 ===============================================
 
 Emphasis (resaltar texto)
@@ -27,3 +27,28 @@ bold o strong
 
 tachado 
 - tacha ~~tachado~~ (se escribe pulsando alt126)
+
+Listas
+================================================
+lista ordenada
+
+1. esto es un item
+1. esto es un item
+1. esto es un item
+
+Lista desordenada
+
+esto es otro tipo:
+ 
+- esto es un item
+- esto es un item
+- esto es un item
+----------------------------
+
+__Links__
+
+-----------------------------------------------------
+<a href="http://google.com"> esto es un link html </a>
+
+[esto es un link Markdown](http://www.google.com) 
+
